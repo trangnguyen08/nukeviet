@@ -1,1 +1,2 @@
 Copy thư mục "nukeviet" vào: ..\xampp\htdocs\
+Copy thư mục "dbtintuc" vào: ..\xampp\mysql\data\
